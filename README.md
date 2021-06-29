@@ -6,7 +6,7 @@ task2 (html file)
 - Merged the old control panel with the new interface on the same page
 
 
-sqltask2 ( sql file)
+sqltasl2 ( sql file)
 -Create a table in the database and insert five columns to add the value of each variable in it.
 for example
 right R
