@@ -1,5 +1,5 @@
 # task2-control-interface-
-Three sub-missions of the second task have been implemented
+4 sub-task of the task have been implemented
 
 task2 (html file)
 - I designed the control interface to move the base and it contains five buttons to move (right, left, backword, forword, stop)
@@ -17,7 +17,7 @@ backword  B
 
 
 
-tablesql (png file)
+tableSql (png file)
 A picture of the database is displayed in the program
 
 
